@@ -1,0 +1,26 @@
+﻿2023-09-18 21:24:59.701   Log opened. (Time zone: UTC+05:30)
+2023-09-18 21:24:59.701   Setup version: Inno Setup version 5.5.9 (u)
+2023-09-18 21:24:59.701   Original Setup EXE: C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\WWDF0Q~1\Setup.exe
+2023-09-18 21:24:59.701   Setup command line: /SL5="$1003D0,9425241,180224,C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\WWDF0Q~1\Setup.exe" /VERYSILENT /LOG="C:\Setup.log"
+2023-09-18 21:24:59.701   Windows version: 10.0.22621  (NT platform: Yes)
+2023-09-18 21:24:59.701   64-bit Windows: Yes
+2023-09-18 21:24:59.701   Processor architecture: x64
+2023-09-18 21:24:59.701   User privileges: Administrative
+2023-09-18 21:24:59.702   64-bit install mode: Yes
+2023-09-18 21:24:59.708   Created temporary directory: C:\Windows\TempInst\is-O4675.tmp
+2023-09-18 21:24:59.712   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\devcon.exe
+2023-09-18 21:24:59.716   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\InstallSetting.exe
+2023-09-18 21:24:59.842   InstallParam=checkled -ledver 2.0.1.16 InstallSettingCode=0
+2023-09-18 21:24:59.867   InstallParam=checkyled -yledver 2.1.1.16 InstallSettingCode=0
+2023-09-18 21:24:59.894   InstallParam=checknetfilter -netfilterver 4.0.0.52 InstallSettingCode=2
+2023-09-18 21:24:59.894   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\FBNetFlt.sys
+2023-09-18 21:24:59.897   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\FBNetFilter.inf
+2023-09-18 21:24:59.897   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\fbnetfilter.cat
+2023-09-18 21:24:59.898   Extracting temporary file: C:\Windows\TempInst\is-O4675.tmp\FBNetFilterInstall.exe
+2023-09-18 21:25:00.413   InstallLedDriver InstallNetDriver=0
+2023-09-18 21:25:00.487   InstallParam=checkxtu -xtu 7.10.0.65 InstallSettingCode=0
+2023-09-18 21:25:00.488   ResultCode=0
+2023-09-18 21:25:00.488   InitializeSetup returned False; aborting.
+2023-09-18 21:25:00.488   Got EAbort exception.
+2023-09-18 21:25:00.488   Deinitializing Setup.
+2023-09-18 21:25:00.489   Log closed.
